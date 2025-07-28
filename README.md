@@ -2,6 +2,7 @@
 HI, This project is a classic Tic Tac Toe game implemented using Python's tkinter module, providing a graphical user interface for easy two-player interaction. The program allows two players to enter their names, player 1 to choose a symbol (X or O), while player 2 is assigned the remaining symbol. Players take alternate turns clicking on the cells in a 3x3 grid. The game checks for a winner (three marks in a horizontal, vertical or diagonal sequence) or a draw (when all cells are filled without a winner). Upon game completion, the result is shown via a pop-up message box, and the board resets dynamically for a new game.
 
 THE ALGORITHM I USED TO BUILD THIS PROJECT:
+
 1.Import tkinter and necessary dialog/messagebox modules.
 
 2.Initialize the main window with title "Tic Tac Toe".
@@ -26,6 +27,7 @@ THE ALGORITHM I USED TO BUILD THIS PROJECT:
 
 
 OUTPUT OF THE PROGRAM GOES LIKE:
+
 The program runs a tkinter GUI window where:
 
 1.Two dialog boxes appear to enter player names.
